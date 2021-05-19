@@ -3,4 +3,4 @@ This is the project of my final project. I created a desktop application to secu
 
 
 
-![image.png]( {https://github.com/Coxiz/Face-Recognition-LBPH-For-Access-Data/blob/main/Result/1%20hal%20utama.PNG?raw=true} )
+![image.png](https://github.com/Coxiz/Face-Recognition-LBPH-For-Access-Data/blob/main/Result/1%20hal%20utama.PNG?raw=true)
